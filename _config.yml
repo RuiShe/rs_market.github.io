@@ -2,9 +2,9 @@
 title:          Too Old
 description:    "A too old blog"
 #baseurl:        "/tale"
+url:            "https://ruishe.github.io"
 baseurl:        ""
-#url:            "https://ruishe.github.io"
-url:            "http://www.tooold.cn"
+#url:            "http://www.tooold.cn"
 
 # Author
 author:         
