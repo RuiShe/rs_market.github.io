@@ -4,7 +4,7 @@ description:    "A too old blog"
 #baseurl:        "/tale"
 url:            "https://ruishe.github.io"
 baseurl:        ""
-#url:            "http://www.tooold.cn"
+#url:            "https://www.tooold.cn"
 
 # Author
 author:         

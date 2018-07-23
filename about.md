@@ -2,7 +2,7 @@
 layout: post
 title: "About"
 author: "Tooold"
-permalink: /about/
+permalink: /about
 ---
 
 胡言乱语，买责自负。
