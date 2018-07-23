@@ -1,9 +1,9 @@
 # Site settings
 title:          Too Old
 description:    "A too old blog"
-#baseurl:        "/tale"
+baseurl:        "/tale"
 url:            "https://ruishe.github.io"
-baseurl:        ""
+#baseurl:        ""
 #url:            "http://www.tooold.cn"
 
 # Author
