@@ -5,13 +5,13 @@ author: "Tooold"
 permalink: /about
 ---
 
-胡言乱语，买责自负。
+### 胡言乱语，买责自负。
 
 # Codes of FX trading
-Managing risks.
-Staying humble.
-Continuously improving.
+### Manage risks.
+### Stay humble.
+### Continuously improve.
 
 # My codes 
-Patience and decisive.
+### Patience and decisive.
 
