@@ -5,6 +5,8 @@ description:    "A too old blog"
 url:            "https://ruishe.github.io"
 baseurl:        ""
 #url:            "https://www.tooold.cn"
+#Google Analytics
+google_analytics: UA-123385892-1
 
 # Author
 author:         
