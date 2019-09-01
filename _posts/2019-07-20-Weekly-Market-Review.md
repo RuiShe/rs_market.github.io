@@ -4,7 +4,7 @@ title:  "市场观察与展望-7月20日"
 date:   2019-07-20
 ---
 
-China opens faster and wider.
+China opens faster and wider, which is the Only way to survive.
 
 ## 汇率、美债、黄金
 本周市场较为清淡，主要关注美联储7月31日降息幅度。
