@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "价值投资的反思"
+title: "风格切换"
 date: 2021-08-28
 ---
 

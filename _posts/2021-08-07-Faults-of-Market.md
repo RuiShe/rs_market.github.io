@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "价值投资的反思"
+title: "寻找大机会"
 date: 2021-08-07
 ---
 

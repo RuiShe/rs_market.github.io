@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "价值投资的困境"
+title: "价值的困境"
 date: 2021-07-10
 ---
 
